@@ -2,7 +2,7 @@
 
 **The visual language of Globe & Atlas.**
 
-Gridcore is a locked design aesthetic for AI-generated images, illustrations, and diagrams used in Globe & Atlas publications. It draws from 1970s vector CRT instruments — Evans & Sutherland flight simulators, oscilloscopes, early geospatial workstations — and from the practitioner's native visual vocabulary: LiDAR point clouds, TIN surfaces, wireframe topology.
+Gridcore is a design aesthetic for AI-generated images, illustrations, and diagrams used in Globe & Atlas publications. It draws from 1970s vector CRT instruments — Evans & Sutherland flight simulators, oscilloscopes, early geospatial workstations — and from the practitioner's native visual vocabulary: LiDAR point clouds, TIN surfaces, wireframe topology.
 
 ---
 
