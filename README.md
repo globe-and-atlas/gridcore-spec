@@ -124,9 +124,5 @@ Standard  ←  base mode; all other modes extend this
 
 ---
 
-## Status
-
-All four modes are locked. Do not modify without Board review.
-
 *Globe & Atlas // Daniel Bally // globeandatlas.com*  
 *Framework locked April 2026*
