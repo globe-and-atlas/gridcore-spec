@@ -1,5 +1,9 @@
 # Gridcore
 
+<img width="1536" height="1024" alt="_9d095360afee1705c59c86c502a6722731386d5fe7c51e3dfe4cf2bf32907152" src="https://github.com/user-attachments/assets/9da0ff47-ce79-4e6f-9cd6-b28bc3abd734" />
+
+<img width="1536" height="1024" alt="_9cf7aa0000036a15dcff1630d8ac4bd6c2721662483aff8a8703268d18f2c501" src="https://github.com/user-attachments/assets/3a6017c2-7d23-480a-8e77-12eeeb494081" />
+
 **The visual language of Globe & Atlas.**
 
 Gridcore is a design aesthetic for AI-generated images, illustrations, and diagrams used in Globe & Atlas publications. It draws from 1970s vector CRT instruments — Evans & Sutherland flight simulators, oscilloscopes, early geospatial workstations — and from the practitioner's native visual vocabulary: basic vectors, TIN surfaces, wireframe topology.
@@ -121,6 +125,11 @@ Standard  ←  base mode; all other modes extend this
   └── Lowpoly        replaces Standard edges with a coarser faceted mesh
         └── Lowpoly Spectral  adds color channels to Lowpoly faces
 ```
+<img width="1408" height="768" alt="_Gemini_Generated_Image_" src="https://github.com/user-attachments/assets/b0865faa-3032-42f2-b310-b52d971c40d7" />
+<img width="1408" height="768" alt="_Gemini_Generated_Image_ (1)" src="https://github.com/user-attachments/assets/4f50f27e-8541-424e-94c1-5d2b3642abef" />
+
+
+
 
 ---
 
